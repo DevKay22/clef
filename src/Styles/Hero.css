@@ -1,0 +1,52 @@
+.hero{
+    display: flex;
+    
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    /* background-color: aqua; */
+    background-image:   url('../Images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    color: #fff;
+}
+
+h1{
+    width: 50px;
+    padding-left: 20px;
+}
+
+.goals{
+    padding: 100px;
+    font-weight: 600;
+}
+
+.click-btn{
+    width: 120px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.1em;
+    color: blue;
+    font-weight: 500;
+
+    transition: .5s;
+}
+
+.click-btn:hover{
+    background: #fff;
+    color: #10222f;
+    width: 140px;
+    border: 2px solid blue;
+}
+
+.require{
+    font-size: 2.0em;
+    color: blue;
+    font-weight: 900;
+    /* font-style: italic; */
+}

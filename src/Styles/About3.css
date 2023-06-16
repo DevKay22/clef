@@ -1,0 +1,77 @@
+.about-3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    border: 1px solid red;
+    height: 350px;
+}
+
+.about-3 .abt-3{
+    border: 1px solid black;
+    width: 40%;
+    margin: 70px;
+    height: 70%;
+}
+
+.about-3 .abt-3 .abtt{
+    padding: 5px;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: rgb(29, 28, 28);
+}
+
+.read{
+    width: 150px;
+    margin-right: 25px;
+    border-radius: 15px;
+    padding: 3px;
+    transition: .5s;
+    cursor: pointer;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: rgb(29, 28, 28);
+}
+
+.abt-btn{
+    border-radius: 15px;
+    width: 70px;
+    padding: 2px;
+    outline: none;
+    transition: .5s;
+    cursor: pointer;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: #fff;
+    background-color:  rgb(29, 28, 28) ;
+    border: 0.3px;
+    height: 28px;
+}
+
+.aboot{
+    border: 1px solid blueviolet;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.aboot .abut{
+    border: 1px solid red;
+    height: 100%;
+    
+    
+}
+
+.abat{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid yellow;
+    height: 100%;
+}
+
+.girl1-img, .girl2,.guy1, .guy2, .guy3{
+    height: 30px;
+    /* background-image: url('../Images/girl1.jpg'); */
+    border: 1px solid red;
+    height: auto;
+    width: 150px;
+}

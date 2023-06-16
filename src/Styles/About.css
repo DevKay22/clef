@@ -1,0 +1,46 @@
+.about-us{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 0;
+    height: 200px;
+    
+    
+
+}
+
+.abt{
+    width: 200px;
+    text-align: center;
+    color: blue;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    display: flex;
+    margin-left: 550px;
+    font-size: 2.5em;
+    font-weight: bold;
+    
+}
+
+.about-us div{
+    padding: 30px;
+    margin: 70px;
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+    border: 2px solid ;
+    border-radius: 6px;
+    
+    
+}
+
+.about-us div ul li {
+    color: #fff;
+    list-style: none;
+    font-size: 1.1em;
+   
+
+}
+

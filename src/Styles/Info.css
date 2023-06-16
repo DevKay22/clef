@@ -1,0 +1,23 @@
+
+  .list-container {
+    list-style: circle;
+    border: 1px solid brown;
+    background-color: rgb(5, 5, 14);
+  }
+  
+  .list-container li {
+    display: inline-block;
+    margin-right: 10px; 
+    white-space: nowrap;
+    animation: marquee 10s linear infinite;
+   
+    color: #fff;
+  }
+
+  
+  
+  
+  
+  
+  
+  

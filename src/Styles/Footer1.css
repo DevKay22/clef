@@ -1,0 +1,44 @@
+.foot-1st{
+    border: 1px solid red;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.foot-1st div{
+    width: 50%;
+    margin: 10px;
+}
+
+.footer-list{
+    border: 1px solid red;
+    display: flex;
+
+}
+
+
+
+.footer-list div ul li{
+    list-style: none;
+    font-size: 0.7em;
+    padding: 5px 2px;
+    color: rgb(29, 28, 28);
+    font-weight: bolder;
+    
+    
+}
+
+.foot-start{
+    font-size: 0.7em;
+    font-weight: 700;
+}
+
+.footer-icons{
+    border: 1px solid red;
+    display: flex;
+}
+
+.footer-icons div{
+    border: 1px solid red;
+}
